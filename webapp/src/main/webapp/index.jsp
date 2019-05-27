@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Raj Technologies !!! </h1>
+<h1> Hello, Welcome to Raj Technology !!! </h1>
 
